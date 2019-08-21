@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devopsubuntu1804</title>
+    <link>https://darkwizard242.github.io/documentation/</link>
+    <description>Recent content on devopsubuntu1804</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Aug 2019 14:43:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://darkwizard242.github.io/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>_Footer</title>
+      <link>https://darkwizard242.github.io/documentation/_footer/</link>
+      <pubDate>Wed, 21 Aug 2019 16:44:47 -0400</pubDate>
+      
+      <guid>https://darkwizard242.github.io/documentation/_footer/</guid>
+      <description>This project is being maintained by: darkwizard242</description>
+    </item>
+    
+  </channel>
+</rss>
