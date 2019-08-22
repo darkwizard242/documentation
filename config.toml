@@ -9,8 +9,8 @@ disableKinds = ["taxonomyTerm"]
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-themeStyle = "flex" # Options are: original , flex
-themeVariant = "gray" # Options are: gray , gold , green , blue
+themeStyle = "original" # Options are: original , flex
+themeVariant = "green" # Options are: gray , gold , green , blue
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
