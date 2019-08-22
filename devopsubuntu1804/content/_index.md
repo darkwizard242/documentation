@@ -5,8 +5,8 @@ draft: true
 author: Ali Muhammad
 ---
 
+![devopsubuntu1804-logo](devopsubuntu1804_transparent_logo.png?height=230px)
 
-# devopsubuntu1804
 
 ##### What is _devopsubuntu1804_ ?
 **devopsubuntu1804** is a Vagrant VM box with Base image of Ubuntu 18.04 LTS (Bionic) that has DevOps tools, programming/scripting languages and environments pre-installed and pre-configured to be ready to be used instantly after boot up.
@@ -15,7 +15,7 @@ author: Ali Muhammad
 **devopsubuntu1804** Vagrant box releases: [Vagrant Cloud URL](https://app.vagrantup.com/darkwizard242/boxes/devopsubuntu1804). Supported Provider: **VirtualBox**
 
 ##### Where is the source code for _devopsubuntu1804_ ?
-[devopsubuntu1804](https://github.com/darkwizard242/devopsubuntu1804)
+{{< icon name="fa-github" size="large" >}}[devopsubuntu1804](https://github.com/darkwizard242/devopsubuntu1804)
 
 ##### Audience
 IT professionals, organizations, enthusiasts or learners with a focus or interest towards CI/CD/CM/Containerization/DevOps.
@@ -26,4 +26,4 @@ IT professionals, organizations, enthusiasts or learners with a focus or interes
  * [Ubuntu](https://www.ubuntu.com/)
 
 ##### Authors:
- * [Ali Muhammad](https://www.linkedin.com/in/ali-muhammad-759791130/)
+{{< icon name="user" size="large" >}} [Ali Muhammad](https://www.linkedin.com/in/ali-muhammad-759791130/)
