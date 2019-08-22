@@ -1,0 +1,3 @@
+[submodule "devopsubuntu1804/themes/docdock"]
+	path = devopsubuntu1804/themes/docdock
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
