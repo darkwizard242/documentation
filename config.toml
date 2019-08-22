@@ -1,6 +1,6 @@
 baseURL = "https://darkwizard242.github.io/documentation/"
 languageCode = "en-us"
-title = "devopsubuntu1804"
+title = "Documentation: devopsubuntu1804"
 publishDir = "docs"
 theme = "docdock"
 disableKinds = ["taxonomyTerm"]
@@ -9,24 +9,24 @@ disableKinds = ["taxonomyTerm"]
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-themeStyle = "original" # Options are: original , flex
-themeVariant = "green" # Options are: gray , gold , green , blue
+themeStyle = "flex" # Options are: original , flex
+themeVariant = "blue" # Options are: gray , gold , green , blue
+disableNavChevron = false
+enableGitInfo = true
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> Repo"
-identifier = "aa"
+identifier = "githubrepo"
 url = "https://github.com/darkwizard242/devopsubuntu1804"
 weight = 1
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-cloud-download'></i> <label>Download source code</label>"
-identifier = "ab"
 url = "https://github.com/darkwizard242/devopsubuntu1804/archive/master.zip"
 weight = 2
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-user-ninja'></i> <label>Profile</label>"
-identifier = "ac"
+name = "<label>LinkedIn</label>"
 url = "https://www.linkedin.com/in/ali-muhammad-759791130/"
 weight = 3
